@@ -17,3 +17,10 @@ Test out your new skills by creating a hover effect for a link. In the hint tab,
 When hovered a link should change color to the black: #000
 Transition speed should be set to 1 second, and transition-timing-function should be ease-in-out
 Transition should be triggered by hover
+
+## Challenge 3
+
+Test out your new skills by creating a color change effect. In the hint tab, you'll find a link to boilerplate files to help get you started.
+
+Change the background color of the box to the red #e84610 after 1s
+The transition should take 1 second and the timing function should be set to ease-in-out
