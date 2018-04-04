@@ -1,0 +1,11 @@
+.element {
+    background-color: #000;
+    height: 100px;
+    width: 100px;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+}
+
+.element:hover {
+    transform: translateX(100%);
+}

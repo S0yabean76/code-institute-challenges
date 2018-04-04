@@ -36,3 +36,7 @@ Make an image double in size when you hover over it but don’t make it jump. Us
 ## Challenge 6
 
 Use the rotate function to spin an image infinitely. The image should rotate without any breaks and stops. Don't forget to give your animation a name! In the hint tab, you'll find a link to boilerplate files to help get you started.
+
+## Challenge 7
+
+When hovered, move a div with a class of element on X axis by 100% in 1 second. Apply transitions.
