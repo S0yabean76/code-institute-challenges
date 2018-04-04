@@ -32,3 +32,7 @@ Make a ball jump up and down. It should go from top 0px to top 100px. One animat
 ## Challenge 5
 
 Make an image double in size when you hover over it but don’t make it jump. Use a transition to make the transformation smooth. The transition should happen within 1 second, and the transition-timing-function should be set to ease-in. In the hint tab, you'll find a link to boilerplate files to help get you started.
+
+## Challenge 6
+
+Use the rotate function to spin an image infinitely. The image should rotate without any breaks and stops. Don't forget to give your animation a name! In the hint tab, you'll find a link to boilerplate files to help get you started.
