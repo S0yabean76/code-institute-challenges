@@ -24,3 +24,7 @@ Test out your new skills by creating a color change effect. In the hint tab, you
 
 Change the background color of the box to the red #e84610 after 1s
 The transition should take 1 second and the timing function should be set to ease-in-out
+
+## Challenge 4
+
+Make a ball jump up and down. It should go from top 0px to top 100px. One animation cycle should take half of a second and the animation should run infinitely. Name your keyframe jump. In the hint tab, you'll find a link to boilerplate files to help get you started.
