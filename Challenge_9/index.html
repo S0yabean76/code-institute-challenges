@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid system example</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style>
+        body {
+            padding: 0 20px;
+        }
+
+        .header {
+            padding-left: 0;
+            padding-right: 0;
+        }
+
+        .grid .row {
+            background-color: #e8e8e8;
+            margin-bottom: 10px;
+            min-height: 60px;
+        }
+
+        .grid .row>div {
+        }
+
+        .grid .grid-element {
+            padding: 10px;
+            background-color: #444;
+            color: white;
+            text-align: center;
+            min-height: 40px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        .grid .grid-element span {
+        }
+
+        .grid .controls {
+            position: fixed;
+            bottom: 10px;
+            left: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <main class="grid">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-1">
+                    <div class="grid-element"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-2">
+                    <div class="grid-element"></div>
+                </div>
+                <div class="col-xs-1 col-xs-offset-4">
+                    <div class="grid-element"></div>
+                </div>
+                <div class="col-xs-1 col-xs-offset-3">
+                    <div class="grid-element"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-1">
+                    <div class="grid-element"></div>
+                </div>
+                <div class="col-xs-1 col-xs-offset-1">
+                    <div class="grid-element"></div>
+                </div>
+                <div class="col-xs-1 col-xs-offset-3">
+                    <div class="grid-element"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-4">
+                    <div class="grid-element"></div>
+                </div>
+                <div class="col-xs-3 col-xs-offset-2">
+                    <div class="grid-element"></div>
+                </div>
+                <div class="col-xs-1 col-xs-offset-1">
+                    <div class="grid-element"></div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-xs-1">
+                    <div class="grid-element"></div>
+                </div>
+                <div class="col-xs-1 col-xs-offset-2">
+                    <div class="grid-element"></div>
+                </div>
+                <div class="col-xs-1 col-xs-offset-2">
+                    <div class="grid-element"></div>
+                </div>
+                 <div class="col-xs-1 col-xs-offset-1">
+                    <div class="grid-element"></div>
+                </div>
+                 <div class="col-xs-1 col-xs-offset-1">
+                    <div class="grid-element"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-1">
+                    <div class="grid-element"></div>
+                </div>
+                <div class="col-xs-1 col-xs-offset-3">
+                    <div class="grid-element"></div>
+                </div>
+                <div class="col-xs-3 col-xs-offset-1">
+                    <div class="grid-element"></div>
+                </div>
+                 <div class="col-xs-1 col-xs-offset-1">
+                    <div class="grid-element"></div>
+                </div>
+            </div>
+        </div>
+    </main>
+   
+</body>
+
+</html>
