@@ -48,3 +48,7 @@ Bootstrap's core CSS has many other features we haven't mentioned. Let's make us
 ## Challenge 9
 
 Let's get to grips with how columns and rows work. To challenge yourself, try to build a grid that displays your name! Think it can't be done? It can! Look at mine first and then check out the code
+
+## Challenge 10
+
+After watching the rest of unit videos from this lesson, try to update just one of the sections of your landing page to look unique. You can use whatever you like to achieve this, and the design can be entirely up to you.
