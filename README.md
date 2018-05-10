@@ -56,3 +56,7 @@ After watching the rest of unit videos from this lesson, try to update just one 
 ## Challenge 11
 
 Write a mixin called box. It accepts two arguments: size and background-color. The size should be set to width and height should be half of the size. Create a box class that will include that mixin. Pass 200px as a value for the size and #bada55 color for the background-color property. Generate the css file with the same name as your scss file.
+
+## Challenge 12
+
+Open the challenge2.scss file. There is a list of the colors. Your task is to generate CSS classes as follows: .container-1, .container-2, .container-3, .container-4. Each of those classes should have one of the colors from the list set as a value for the background-color property. Use any of the loops you want!

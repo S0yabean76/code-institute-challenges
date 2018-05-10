@@ -1,0 +1,7 @@
+$colors: #aaa, #bbb, #ccc, #ddd;
+
+@for $i from 1 through 4 {
+    .container-#{$i} {
+        background-color: nth($colors, $i);
+    }
+}
