@@ -66,3 +66,7 @@ Open the challenge2.scss file. There is a list of the colors. Your task is to ge
 Your challenge is to review a code snippet and improve it. Use the hint tab to access the boilerplate files. Open the file called challenge3.scss.
 
 Is something wrong with this code? How can we improve it? Is something repetitive? Maybe a straightforward placeholder can help us out...
+
+## Challenge 14
+
+Open the index.html file. Change the color of all anchors on hover to red in the unordered list with a class listRight that is a child of the container. Use the nesting and the & selector.
