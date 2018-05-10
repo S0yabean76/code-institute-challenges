@@ -60,3 +60,9 @@ Write a mixin called box. It accepts two arguments: size and background-color. T
 ## Challenge 12
 
 Open the challenge2.scss file. There is a list of the colors. Your task is to generate CSS classes as follows: .container-1, .container-2, .container-3, .container-4. Each of those classes should have one of the colors from the list set as a value for the background-color property. Use any of the loops you want!
+
+## Challenge 13
+
+Your challenge is to review a code snippet and improve it. Use the hint tab to access the boilerplate files. Open the file called challenge3.scss.
+
+Is something wrong with this code? How can we improve it? Is something repetitive? Maybe a straightforward placeholder can help us out...
